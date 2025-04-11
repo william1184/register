@@ -1,0 +1,11 @@
+{
+    "description": "Personal subdomain",
+    "repo": "https://github.com/william1184/william1184.github.io",
+    "owner": {
+        "username": "william1184",
+        "email": "williamsp1184@gmail.com"
+    },
+    "record": {
+        "CNAME": "william1184.github.io"
+    }
+}
